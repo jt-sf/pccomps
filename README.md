@@ -1,0 +1,2 @@
+# pccomps
+ PC components lists
